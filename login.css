@@ -1,0 +1,14 @@
+.lo-1 a{
+	color:black;
+	text-align: left;
+}
+body{
+	background-image: url(books.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+
+}
+.lo-2{
+	color:black;
+	font-size: 34px;
+}

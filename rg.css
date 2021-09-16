@@ -1,0 +1,19 @@
+.r-1 a{
+	color:white;
+	font-size:20px;
+	text-align: left;
+}
+body{
+	background-image: url(min.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	color:white;
+}
+.r-2{
+	font-size:34px;
+	color:coral;
+}
+.r-3{
+	color:white; 
+	font-size:24px;
+}

@@ -1,0 +1,8 @@
+.p-1 a{
+	color:black;
+}
+body{
+	background-image: url(v.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}

@@ -1,0 +1,43 @@
+.box a {
+	color:orange;
+	font-weight: none;
+	font-size: 20px;
+	color:white;
+ }
+.red-1{
+	color:blue;
+	text-decoration: bold;
+}
+.red-2{
+	color:blue;
+
+}
+.red-3{
+	color:violet;
+}
+body{
+	background-image:url('pics.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	color:coral;
+	font-size:16px;
+}
+.red-4{
+	color:blue;
+	text-decoration:none;
+}
+.red-5{
+	color:violet;
+}
+.red-6{
+	color:blue;
+}
+.red-7{
+	color:violet;
+}
+.red-8{
+	color:blue;
+}
+.red-9{
+	color:violet;
+}
