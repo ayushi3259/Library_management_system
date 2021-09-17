@@ -1,9 +1,9 @@
 body{
-	background-image: url('../Web_Page/images/book-wallpaper-hd-1440x900-128900.jpg');
+	background-image: url('../images/book_wall.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
 	color:white;
 }
-.cp{
+.box a{
     color:white;
 }

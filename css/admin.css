@@ -1,10 +1,10 @@
 body{
-	background-image: url('../Web_Page/images/books-formula-charts-school-wallpaper-preview.jpg');
+	background-image: url('../images/book_formula.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
 	color:black;
 }
-.ad-1 a{
+.cp a{
     color:black;
 	font-size: x-large;
 }
