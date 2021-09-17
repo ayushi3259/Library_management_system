@@ -1,8 +1,8 @@
 .p-1 a{
-	color:black;
+	color:white;
 }
 body{
-	background-image: url(v.jpg);
+	background-image: url('../Web_Page/images/feedback.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }

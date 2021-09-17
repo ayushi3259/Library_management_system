@@ -1,5 +1,5 @@
 body{
-	background-image: url(papers.jpg);
+	background-image: url('../Web_Page/images/min.jpg');
 }
 .co-1 a{
 	color:white;
@@ -19,5 +19,5 @@ body{
 	color:white;
 }
 .co-5{
-	color:black;
+	color:white;
 }

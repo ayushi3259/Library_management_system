@@ -1,15 +1,15 @@
 .lo-1 a{
-	color:white;
+	color:black;
 	text-align: left;
 }
 body{
-	background-image: url(books.jpg);
+	background-image: url('../Web_Page/images/st.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
-	color:white;
+	color:black;
 
 }
 .lo-2{
-	color:white;
+	color:black;
 	font-size: 34px;
 }

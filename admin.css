@@ -1,11 +1,11 @@
 body{
 	font-size:48px;
-	background-image: url(share.jpg);
-	color:coral;
+	background-image:url('../../Documents/Web_Page/images/FV.jpg');
+	color:white;
 }
 .ad-1 a{
 	font-size:18px;
-	color:coral;
+	color:white;
 }
 .ad-2{
 	font-size: 18px;
@@ -14,5 +14,5 @@ body{
 	font-size:18px;
 }
 .ad-4{
-	color:coral;
+	color:whitesmoke;
 }

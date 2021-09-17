@@ -9,36 +9,36 @@
 	text-decoration: bold;
 }
 .red-2{
-	color:blue;
+	color:white;
 
 }
 .red-3{
-	color:violet;
+	color:white;
 }
 body{
-	background-image:url('pics.jpg');
+	background-image:url('../Web_Page/images/Books.jpg');
 	background-repeat: no-repeat;
 	background-size:cover;
-	color:coral;
+	color:white;
 	font-size:16px;
 	font-family: san-serif;
 }
 .red-4{
-	color:blue;
+	color:white;
 	text-decoration:none;
 }
 .red-5{
-	color:violet;
+	color:white;
 }
 .red-6{
-	color:blue;
+	color:white;
 }
 .red-7{
-	color:violet;
+	color:white;
 }
 .red-8{
-	color:blue;
+	color:white;
 }
 .red-9{
-	color:violet;
+	color:white;
 }
